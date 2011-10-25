@@ -40,8 +40,8 @@ import com.google.gson.JsonSyntaxException;
 public class JSONNodesActivity extends Activity {
     /** Called when the activity is first created. */
 	
-	private static final String url = "http://d7.aborigeno.net/market/app/1.json";
-	private static final String publicUrl = "http://d7.aborigeno.net/sites/default/files";
+	private static final String url = "Your service url";
+	private static final String publicUrl = "Your public dir  url";
 	private static final String TAG = "Node";
 	
 	TextView tv;
