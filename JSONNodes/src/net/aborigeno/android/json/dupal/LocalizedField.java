@@ -1,4 +1,4 @@
-package it.csi.sii.android.json.dupal;
+package net.aborigeno.android.json.dupal;
 
 public class LocalizedField {
 	public LocalizedField() {

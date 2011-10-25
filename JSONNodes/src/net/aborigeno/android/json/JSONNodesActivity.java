@@ -1,13 +1,15 @@
-package it.csi.sii.android.json;
+package net.aborigeno.android.json;
 
-import it.csi.sii.android.json.dupal.App;
-import it.csi.sii.android.json.dupal.TextField;
-import it.csi.sii.android.json.dupal.FileField;
-import it.csi.sii.android.json.dupal.LocalizedField;
+import it.csi.sii.android.json.R;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+
+import net.aborigeno.android.json.dupal.App;
+import net.aborigeno.android.json.dupal.FileField;
+import net.aborigeno.android.json.dupal.LocalizedField;
+import net.aborigeno.android.json.dupal.TextField;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;

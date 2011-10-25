@@ -1,4 +1,4 @@
-package it.csi.sii.android.json.dupal;
+package net.aborigeno.android.json.dupal;
 
 
 import java.util.Date;

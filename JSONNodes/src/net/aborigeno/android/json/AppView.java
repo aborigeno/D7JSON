@@ -1,6 +1,7 @@
-package it.csi.sii.android.json;
+package net.aborigeno.android.json;
 
-import it.csi.sii.android.json.dupal.App;
+import net.aborigeno.android.json.dupal.App;
+import it.csi.sii.android.json.R;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
