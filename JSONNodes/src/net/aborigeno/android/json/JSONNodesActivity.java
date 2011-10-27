@@ -89,7 +89,7 @@ public class JSONNodesActivity extends Activity {
 
 			@Override
 			public void onClick(View v) {
-				// TODO Auto-generated method stub
+				
 				vai();
 				// openGrid();
 			}
